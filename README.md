@@ -14,3 +14,11 @@ A web application that uses deep learning to classify potato leaf diseases from 
 - Clear/reset functionality
 
 ---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+- React  
+- Material-UI  
+- Axios  
+- Create React App
