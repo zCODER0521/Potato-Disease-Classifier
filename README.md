@@ -40,3 +40,36 @@ A web application that uses deep learning to classify potato leaf diseases from 
 ![Result Screenshot](training/screenshots/output.png)
 
 ---
+
+## 🏗️ Project Structure
+
+```
+Potato-Disease-Classifier/
+├── API/
+│ ├── app.py
+│ ├── models.config
+│ ├── requirements.txt
+│ └── ...
+├── frontend/
+│ ├── src/
+│ │ ├── App.js
+│ │ ├── home.js
+│ │ └── ...
+│ ├── public/
+│ │ └── index.html
+│ ├── package.json
+│ ├── README.md
+│ └── screenshots/
+│ ├── home.png
+│ └── result.png
+├── model/
+│ ├── 1.keras
+│ ├── 2.keras
+│ └── 3.keras
+├── training/
+│ ├── training.ipynb
+│ └── screenshots/
+│ └── output.png
+└── ...
+
+```
