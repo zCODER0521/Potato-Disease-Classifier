@@ -1,5 +1,5 @@
-# 🤖 AI Log Classifier
+# 🥔 Potato Disease Classifier
 
-An advanced log classification system that leverages machine learning and NLP to automatically categorize log messages from diverse enterprise systems.
+A web application that uses deep learning to classify potato leaf diseases from images. Built with FastAPI, React, and TensorFlow.
 
 ---
