@@ -22,3 +22,9 @@ A web application that uses deep learning to classify potato leaf diseases from 
 - Material-UI  
 - Axios  
 - Create React App
+
+**Backend:**  
+- FastAPI  
+- TensorFlow / Keras  
+- NumPy  
+- Pillow (PIL)
