@@ -73,3 +73,14 @@ Potato-Disease-Classifier/
 └── ...
 
 ```
+
+
+---
+
+## ⚡ Quick Start
+
+### 1. Clone the repository
+
+```sh
+git clone https://github.com/zCODER0521/potato-disease-classifier.git
+cd potato-disease-classifier
