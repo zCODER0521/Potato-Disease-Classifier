@@ -28,3 +28,8 @@ A web application that uses deep learning to classify potato leaf diseases from 
 - TensorFlow / Keras  
 - NumPy  
 - Pillow (PIL)
+
+**Model:**  
+- Custom-trained Keras model (`model/1.keras`, `2.keras`, `3.keras`)
+
+---
