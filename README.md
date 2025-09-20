@@ -93,3 +93,11 @@ cd API
 pip install -r requirements.txt
 uvicorn app:app --reload
 ```
+
+### 3. Frontend Setup
+
+```
+cd frontend
+npm install
+npm start
+```
