@@ -106,3 +106,10 @@ npm start
 
 - **GET /** — Health check  
 - **POST /predict** — Upload image for prediction  
+
+## 📝 Extra Tools & Libraries
+
+- **react-dropzone** — For drag & drop file upload  
+- **Material-UI** — For UI components  
+- **CORS Middleware** — For cross-origin requests  
+- **Vercel** — For frontend deployment  
