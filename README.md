@@ -84,3 +84,11 @@ Potato-Disease-Classifier/
 ```sh
 git clone https://github.com/zCODER0521/potato-disease-classifier.git
 cd potato-disease-classifier
+```
+
+### 2. Backend Setup
+
+cd API
+pip install -r requirements.txt
+uvicorn app:app --reload
+
