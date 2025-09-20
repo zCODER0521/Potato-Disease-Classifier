@@ -101,3 +101,8 @@ cd frontend
 npm install
 npm start
 ```
+
+## 🌐 API Endpoints
+
+- **GET /** — Health check  
+- **POST /predict** — Upload image for prediction  
