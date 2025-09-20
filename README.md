@@ -88,7 +88,8 @@ cd potato-disease-classifier
 
 ### 2. Backend Setup
 
+```
 cd API
 pip install -r requirements.txt
 uvicorn app:app --reload
-
+```
