@@ -33,3 +33,10 @@ A web application that uses deep learning to classify potato leaf diseases from 
 - Custom-trained Keras model (`model/1.keras`, `2.keras`, `3.keras`)
 
 ---
+
+## 📸 Screenshots
+
+### Prediction Result
+![Result Screenshot](training/screenshots/output.png)
+
+---
